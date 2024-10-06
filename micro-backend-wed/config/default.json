@@ -1,0 +1,21 @@
+{
+  "port": "3100",
+  "mongodbUrl": "mongodb+srv://giahy2605:26052004@cluster0.6vatvcc.mongodb.net/ecommerceMicro?retryWrites=true&w=majority&appName=Cluster0",
+  "adminSecretToken": "hyadmin",
+  "ACTIVATION_SECRET": "26052004",
+  "SMTP_HOST": "smtp.gmail.com",
+  "SMTP_SERVICE": "gmail",
+  "SMTP_MAIL": "giahy2605@gmail.com",
+  "SMTP_PASSWORD": "apew aziq mdlq mlup",
+  "jwtSecret": "hycon",
+  "fileStoragePath": "./uploads/",
+  "appPrefix": "/api/v1",
+  "cloudinary": {
+    "cloud_name": "difmknbax",
+    "api_key": "245937446394184",
+    "api_secret": "3z6PuFI5lPLKmAYUPdgIRlDiKEI",
+    "folderPath": " Home/Foods",
+    "publicId_prefix": "__hycon__",
+    "bigSize": "400X400"
+  }
+}

@@ -1,0 +1,27 @@
+/* CartPage.css-checkout */
+.container-checkout {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1-checkout);
+  background-color: #fff;
+}
+
+.input-checkout {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 15px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+.input-checkout:focus {
+  border-color: #007bff;
+  outline: none;
+}
+
+.title-checkout {
+  text-align: center;
+  margin-bottom: 20px;
+}
