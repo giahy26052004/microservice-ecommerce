@@ -1,3 +1,6 @@
+# Chatbot Service 
+https://github.com/giahy26052004/ai-chatbot
+
 # Start
 npm i 
 npm run build 
